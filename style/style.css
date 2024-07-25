@@ -191,6 +191,7 @@ footer{
 
  .footer-text{
     color: white;
+    
 
  }
  .footer-text h2{
@@ -205,4 +206,19 @@ footer{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.icon{
+     margin-top: 10px;
+    
+    display: flex;
+    justify-content:space-between ;
+    font-size:small;
+    font-weight: 300;
+    
+    text-shadow: 2px  2px  4px white; 
+
+    margin-bottom: 30px;
+     
+   
+   
 }
